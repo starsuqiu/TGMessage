@@ -55,6 +55,7 @@ private func isKeyboardWindow(window: NSObject) -> Bool {
             return true
         }
     }
+    
     return false
 }
 
