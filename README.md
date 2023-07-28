@@ -16,6 +16,8 @@ There are several things we require from **all developers** for the moment.
 1. Install Xcode (directly from https://developer.apple.com/download/more or using the App Store).
 2. Clone the project from GitHub:
 
+3. 
+
 ```
 git clone --recursive -j8 https://github.com/TelegramMessenger/Telegram-iOS.git
 ```
